@@ -26,5 +26,5 @@ For example:
 * The PIE/OKT liquidity pool now has 10.017 PIE and 10.017 OKT.
 * Each FLIP token is now worth 1.00017 PIE + 1.00017 OKT.
 
-To make being a liquidity provider even more worth your while, you can also put your FLIP tokens to work whipping up some fresh yield on the [PIE farms \(here\)](https://pIeswap.ORG/), while still earning your 0.17% trading fee reward. 
+To make being a liquidity provider even more worth your while, you can also put your FLIP tokens to work whipping up some fresh yield on the [PIE farms \(here\)](https://pieswap.org/), while still earning your 0.17% trading fee reward. 
 
