@@ -1,4 +1,4 @@
-# Pancake Swap Intro
+Pie Swap Intro:
 
 PieSwap is an automated market maker \(“AMM”\) that allows two tokens to be exchanged on the Okex Smart Chain. It is fast, cheap, and allows anyone to participate.
 
