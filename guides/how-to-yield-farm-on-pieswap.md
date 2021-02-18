@@ -1,4 +1,4 @@
-# How to Yield Farm on PancakeSwap
+# How to Yield Farm on PieSwap
 
 
 
